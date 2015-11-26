@@ -1,0 +1,887 @@
+._1c .kw3 {
+color:navy;
+font-weight:700;
+}
+
+._1c .sy0 {
+color:#a33;
+}
+
+._1c .st0 {
+color:#006F51;
+}
+
+.actionscript3 .kw1 {
+color:#03f;
+font-weight:700;
+}
+
+.actionscript3 .kw2 {
+color:#69c;
+font-weight:700;
+}
+
+.actionscript3 .kw3 {
+color:#396;
+font-weight:700;
+}
+
+.actionscript3 .kw4 {
+color:#90c;
+font-weight:700;
+}
+
+.actionscript3 .co1 {
+color:#090;
+font-style:italic;
+}
+
+.actionscript3 .coMULTI {
+color:#3f5fbf;
+}
+
+.asm .kw1 {
+color:#00007f;
+font-weight:700;
+}
+
+.asm .kw3 {
+color:#b00040;
+}
+
+.asm .kw4 {
+color:#46aa03;
+font-weight:700;
+}
+
+.asm .co2 {
+color:#adadad;
+font-style:italic;
+}
+
+.asm .st0 {
+color:#7f007f;
+}
+
+.bash .kw2 {
+color:#c20cb9;
+font-weight:700;
+}
+
+.bash .es5 {
+color:#780078;
+}
+
+.bash .re5 {
+color:#603;
+}
+
+.cpp-qt .kw5 {
+color:#2ad;
+}
+
+.cpp-qt .coMULTI {
+color:#888;
+font-style:italic;
+}
+
+.cpp-qt .st0 {
+color:#BF0303;
+}
+
+.cpp-qt .nu0 {
+color:#B08000;
+}
+
+.csharp .kw1 {
+color:#0600FF;
+font-weight:700;
+}
+
+.csharp .kw2 {
+color:#FF8000;
+font-weight:700;
+}
+
+.csharp .kw4 {
+color:#66c;
+font-weight:700;
+}
+
+.css .kw3 {
+color:#9932cc;
+}
+
+.css .kw5 {
+color:#F5758F;
+}
+
+.css .re2 {
+color:#3F84D9;
+font-weight:700;
+}
+
+.css .re4 {
+color:#444;
+}
+
+.delphi .re0 {
+color:#00c;
+}
+
+.fsharp .sy0 {
+color:#a52a2a;
+}
+
+.fsharp .st0 {
+color:#3cb371;
+}
+
+.haskell .kw4 {
+color:#cc0;
+font-weight:700;
+}
+
+.haskell .es0 {
+background-color:#3cb371;
+font-weight:700;
+}
+
+.haskell .st0 {
+background-color:#3cb371;
+}
+
+.java5 .co2 {
+color:#069;
+}
+
+.java5 .co3 {
+color:green;
+font-style:italic;
+font-weight:700;
+}
+
+.matlab .co1 {
+color:#228B22;
+}
+
+.matlab .co2 {
+color:#A020F0;
+}
+
+.mysql .kw27 {
+color:#0C0;
+}
+
+.mysql .coMULTI {
+color:olive;
+font-style:italic;
+}
+
+.mysql .es0 {
+color:#004000;
+font-weight:700;
+}
+
+.mysql .sy1 {
+color:#C09;
+}
+
+.mysql .sy2 {
+color:#003;
+}
+
+.objc .co1 {
+color:#6e371a;
+}
+
+.oracle11 .kw1 {
+color:#933;
+font-weight:700;
+text-transform:uppercase;
+}
+
+.pascal .me1 {
+color:#06e;
+}
+
+.powershell .nu0 {
+color:#804000;
+}
+
+.purebasic .kw1 {
+color:#066;
+font-weight:700;
+}
+
+.purebasic .kw2 {
+color:#904070;
+font-weight:700;
+}
+
+.purebasic .co1 {
+color:#0AA;
+font-style:italic;
+}
+
+.purebasic .br0 {
+color:#4040B0;
+}
+
+.purebasic .sy0 {
+color:#2020B0;
+}
+
+.purebasic .re2 {
+color:#924B72;
+}
+
+.purebasic .re3 {
+color:#006868;
+}
+
+.purebasic .re6 {
+color:#FF8040;
+}
+
+.purebasic .re7 {
+color:#FF0080;
+}
+
+.python .kw1 {
+color:#f70;
+font-weight:700;
+}
+
+.python .kw4 {
+color:#0000cd;
+}
+
+.python .st0 {
+color:#483d8b;
+}
+
+.python .nu0 {
+color:#ff4500;
+}
+
+.qbasic .co3 {
+color:#8080C0;
+}
+
+.rails .kw5 {
+color:#5A0A0A;
+font-weight:700;
+}
+
+.sql .kw1 {
+color:#933;
+font-weight:700;
+}
+
+.vb .kw1 {
+color:#F660AB;
+font-weight:700;
+}
+
+.vb .kw2 {
+color:#E56717;
+font-weight:700;
+}
+
+.vb .kw3 {
+color:#8D38C9;
+font-weight:700;
+}
+
+.vb .kw4 {
+color:#151B8D;
+font-weight:700;
+}
+
+.vb .kw5 {
+color:#00C2FF;
+font-weight:700;
+}
+
+.vb .kw6 {
+color:#3EA99F;
+font-weight:700;
+}
+
+.vb .es0 {
+color:maroon;
+font-weight:700;
+}
+
+.vbnet .kw2 {
+color:#6a5acd;
+}
+
+.vbnet .kw3 {
+color:#6a5acd;
+font-weight:700;
+}
+
+.vbnet .kw4 {
+color:#cd6a5a;
+}
+
+.vbnet .kw5 {
+color:#cd6a5a;
+font-weight:700;
+}
+
+.winbatch .kw2 {
+color:#0080FF;
+font-weight:700;
+}
+
+.winbatch .co2 {
+color:#FF1010;
+font-weight:700;
+}
+
+.winbatch .br0 {
+color:#6c6;
+font-weight:700;
+}
+
+._1c .de1,._1c .de2,.actionscript3 .de1,.actionscript3 .de2,.asm .de1,.asm .de2,.bash .de1,.bash .de2,.c .de1,.c .de2,.cpp .de1,.cpp .de2,.cpp-qt .de1,.cpp-qt .de2,.csharp .de1,.csharp .de2,.css .de1,.css .de2,.delphi .de1,.delphi .de2,.fortran .de1,.fortran .de2,.fsharp .de1,.fsharp .de2,.haskell .de1,.haskell .de2,.html4strict .de1,.html4strict .de2,.html5 .de1,.html5 .de2,.java5 .de1,.java5 .de2,.javascript .de1,.javascript .de2,.json .de1,.json .de2,.lisp .de1,.lisp .de2,.matlab .de1,.matlab .de2,.mysql .de1,.mysql .de2,.objc .de1,.objc .de2,.oracle11 .de1,.oracle11 .de2,.pascal .de1,.pascal .de2,.perl6 .de1,.perl6 .de2,.php .de1,.php .de2,.phphtml .de1,.phphtml .de2,.powershell .de1,.powershell .de2,.prolog .de1,.prolog .de2,.purebasic .de1,.purebasic .de2,.python .de1,.python .de2,.qbasic .de1,.qbasic .de2,.rails .de1,.rails .de2,.ruby .de1,.ruby .de2,.sql .de1,.sql .de2,.tsql .de1,.tsql .de2,.unknown .de1,.unknown .de2,.vb .de1,.vb .de2,.vbnet .de1,.vbnet .de2,.winbatch .de1,.winbatch .de2,.xml .de1,.xml .de2 {
+font:normal normal 1em/1.2em monospace;
+background:none;
+vertical-align:top;
+margin:0;
+padding:0;
+}
+
+._1c,.actionscript3,.asm,.bash,.c,.cpp,.cpp-qt,.csharp,.css,.delphi,.fortran,.fsharp,.haskell,.html4strict,.html5,.java5,.javascript,.json,.lisp,.matlab,.mysql,.objc,.oracle11,.pascal,.perl6,.php,.phphtml,.powershell,.prolog,.purebasic,.python,.qbasic,.rails,.ruby,.sql,.tsql,.unknown,.vb,.vbnet,.winbatch,.xml {
+font-family:monospace;
+}
+
+._1c .imp,.actionscript3 .imp,.asm .imp,.bash .imp,.c .imp,.cpp .imp,.cpp-qt .imp,.csharp .imp,.css .imp,.delphi .imp,.fortran .imp,.fsharp .imp,.haskell .imp,.html4strict .imp,.html5 .imp,.java5 .imp,.javascript .imp,.json .imp,.lisp .imp,.matlab .imp,.mysql .imp,.objc .imp,.oracle11 .imp,.pascal .imp,.perl6 .imp,.php .imp,.phphtml .imp,.powershell .imp,.prolog .imp,.purebasic .imp,.python .imp,.qbasic .imp,.rails .imp,.ruby .imp,.sql .imp,.tsql .imp,.unknown .imp,.vb .imp,.vbnet .imp,.winbatch .imp,.xml .imp {
+font-weight:700;
+color:red;
+}
+
+._1c li,._1c .li1,.actionscript3 li,.actionscript3 .li1,.asm li,.asm .li1,.bash li,.bash .li1,.c li,.c .li1,.cpp li,.cpp .li1,.cpp-qt li,.cpp-qt .li1,.csharp li,.csharp .li1,.css li,.css .li1,.delphi li,.delphi .li1,.fortran li,.fortran .li1,.fsharp li,.fsharp .li1,.haskell li,.haskell .li1,.html4strict li,.html4strict .li1,.html5 li,.html5 .li1,.java5 li,.java5 .li1,.javascript li,.javascript .li1,.json li,.json .li1,.lisp li,.lisp .li1,.matlab li,.matlab .li1,.mysql li,.mysql .li1,.objc li,.objc .li1,.oracle11 li,.oracle11 .li1,.pascal li,.pascal .li1,.perl6 li,.perl6 .li1,.php li,.php .li1,.phphtml li,.phphtml .li1,.powershell li,.powershell .li1,.prolog li,.prolog .li1,.purebasic li,.purebasic .li1,.python li,.python .li1,.qbasic li,.qbasic .li1,.rails li,.rails .li1,.ruby li,.ruby .li1,.sql li,.sql .li1,.tsql li,.tsql .li1,.unknown li,.unknown .li1,.vb li,.vb .li1,.vbnet li,.vbnet .li1,.winbatch li,.winbatch .li1,.xml li,.xml .li1 {
+font-weight:400;
+vertical-align:top;
+}
+
+._1c .ln,.actionscript3 .ln,.asm .ln,.bash .ln,.c .ln,.cpp .ln,.cpp-qt .ln,.csharp .ln,.css .ln,.delphi .ln,.fortran .ln,.fsharp .ln,.haskell .ln,.html4strict .ln,.html5 .ln,.java5 .ln,.javascript .ln,.json .ln,.lisp .ln,.matlab .ln,.mysql .ln,.objc .ln,.oracle11 .ln,.pascal .ln,.perl6 .ln,.php .ln,.phphtml .ln,.powershell .ln,.prolog .ln,.purebasic .ln,.python .ln,.qbasic .ln,.rails .ln,.ruby .ln,.sql .ln,.tsql .ln,.unknown .ln,.vb .ln,.vbnet .ln,.winbatch .ln,.xml .ln {
+width:1px;
+text-align:right;
+vertical-align:top;
+margin:0;
+padding:0 2px;
+}
+
+._1c .li2,.actionscript3 .li2,.asm .li2,.bash .li2,.c .li2,.cpp .li2,.cpp-qt .li2,.csharp .li2,.css .li2,.delphi .li2,.fortran .li2,.fsharp .li2,.haskell .li2,.html4strict .li2,.html5 .li2,.java5 .li2,.javascript .li2,.json .li2,.lisp .li2,.matlab .li2,.mysql .li2,.objc .li2,.oracle11 .li2,.pascal .li2,.perl6 .li2,.php .li2,.phphtml .li2,.powershell .li2,.prolog .li2,.purebasic .li2,.python .li2,.qbasic .li2,.rails .li2,.ruby .li2,.sql .li2,.tsql .li2,.unknown .li2,.vb .li2,.vbnet .li2,.winbatch .li2,.xml .li2 {
+font-weight:700;
+vertical-align:top;
+}
+
+._1c .kw1,.delphi .es0 {
+color:red;
+font-weight:700;
+}
+
+._1c .kw2,._1c .kw4,.asm .nu0,.bash .st0,.bash .st_h,.c .st0,.cpp .st0,.csharp .nu0,.css .st0,.delphi .st0,.delphi .re1,.fortran .st0,.haskell .nu0,.html4strict .st0,.html5 .st0,.javascript .kw5,.lisp .st0,.oracle11 .st0,.oracle11 .me1,.pascal .st0,.pascal .st_h,.perl6 .st0,.perl6 .st_h,.powershell .kw4,.qbasic .st0,.sql .st0,.tsql .st0,.unknown .st0,.winbatch .st0,.xml .st0 {
+color:red;
+}
+
+._1c .kw5,.cpp .sy1,.powershell .kw6,.powershell .re6,.unknown .sy1 {
+color:navy;
+}
+
+._1c .kw6,.haskell .kw3 {
+font-weight:700;
+}
+
+._1c .co1,.delphi .co2,.rails .co1,.ruby .co1,.vbnet .co1,.vbnet .coMULTI {
+color:green;
+font-style:italic;
+}
+
+._1c .es0,.asm .es0,.bash .es1,.bash .es_h,.c .es0,.c .es1,.cpp .es0,.cpp .es1,.cpp-qt .es0,.cpp-qt .es1,.css .es0,.css .es2,.fortran .es0,.html4strict .es0,.html5 .es0,.java5 .es0,.javascript .es0,.json .es0,.lisp .es0,.oracle11 .es0,.pascal .es0,.pascal .es_h,.perl6 .es0,.perl6 .es_h,.php .es0,.php .es1,.php .es_h,.phphtml .es0,.phphtml .es1,.phphtml .es_h,.prolog .es0,.prolog .es_h,.python .es0,.sql .es0,.tsql .es0,.unknown .es0,.unknown .es1,.winbatch .co103,.winbatch .es100,.xml .es0 {
+color:#009;
+font-weight:700;
+}
+
+._1c .br0,._1c .nu0 {
+color:blue;
+}
+
+._1c .me1,.cpp .br0,.cpp .sy0,.csharp .kw3,.csharp .br0,.csharp .sy0,.haskell .br0,.mysql .st0,.powershell .co1,.powershell .coMULTI,.python .kw2,.unknown .br0,.unknown .sy0,.vb .co1 {
+color:green;
+}
+
+._1c .ln-xtra,._1c li.ln-xtra,._1c div.ln-xtra,.actionscript3 .ln-xtra,.actionscript3 li.ln-xtra,.actionscript3 div.ln-xtra,.asm .ln-xtra,.asm li.ln-xtra,.asm div.ln-xtra,.bash .ln-xtra,.bash li.ln-xtra,.bash div.ln-xtra,.c .ln-xtra,.c li.ln-xtra,.c div.ln-xtra,.cpp .ln-xtra,.cpp li.ln-xtra,.cpp div.ln-xtra,.cpp-qt .ln-xtra,.cpp-qt li.ln-xtra,.cpp-qt div.ln-xtra,.csharp .ln-xtra,.csharp li.ln-xtra,.csharp div.ln-xtra,.css .ln-xtra,.css li.ln-xtra,.css div.ln-xtra,.delphi .ln-xtra,.delphi li.ln-xtra,.delphi div.ln-xtra,.fortran .ln-xtra,.fortran li.ln-xtra,.fortran div.ln-xtra,.fsharp .ln-xtra,.fsharp li.ln-xtra,.fsharp div.ln-xtra,.haskell .ln-xtra,.haskell li.ln-xtra,.haskell div.ln-xtra,.html4strict .ln-xtra,.html4strict li.ln-xtra,.html4strict div.ln-xtra,.html5 .ln-xtra,.html5 li.ln-xtra,.html5 div.ln-xtra,.java5 .ln-xtra,.java5 li.ln-xtra,.java5 div.ln-xtra,.javascript .ln-xtra,.javascript li.ln-xtra,.javascript div.ln-xtra,.json .ln-xtra,.json li.ln-xtra,.json div.ln-xtra,.lisp .ln-xtra,.lisp li.ln-xtra,.lisp div.ln-xtra,.matlab .ln-xtra,.matlab li.ln-xtra,.matlab div.ln-xtra,.mysql .ln-xtra,.mysql li.ln-xtra,.mysql div.ln-xtra,.objc .ln-xtra,.objc li.ln-xtra,.objc div.ln-xtra,.oracle11 .ln-xtra,.oracle11 li.ln-xtra,.oracle11 div.ln-xtra,.pascal .ln-xtra,.pascal li.ln-xtra,.pascal div.ln-xtra,.perl6 .ln-xtra,.perl6 li.ln-xtra,.perl6 div.ln-xtra,.php .ln-xtra,.php li.ln-xtra,.php div.ln-xtra,.phphtml .ln-xtra,.phphtml li.ln-xtra,.phphtml div.ln-xtra,.powershell .ln-xtra,.powershell li.ln-xtra,.powershell div.ln-xtra,.prolog .ln-xtra,.prolog li.ln-xtra,.prolog div.ln-xtra,.purebasic .ln-xtra,.purebasic li.ln-xtra,.purebasic div.ln-xtra,.python .ln-xtra,.python li.ln-xtra,.python div.ln-xtra,.qbasic .ln-xtra,.qbasic li.ln-xtra,.qbasic div.ln-xtra,.rails .ln-xtra,.rails li.ln-xtra,.rails div.ln-xtra,.ruby .ln-xtra,.ruby li.ln-xtra,.ruby div.ln-xtra,.sql .ln-xtra,.sql li.ln-xtra,.sql div.ln-xtra,.tsql .ln-xtra,.tsql li.ln-xtra,.tsql div.ln-xtra,.unknown .ln-xtra,.unknown li.ln-xtra,.unknown div.ln-xtra,.vb .ln-xtra,.vb li.ln-xtra,.vb div.ln-xtra,.vbnet .ln-xtra,.vbnet li.ln-xtra,.vbnet div.ln-xtra,.winbatch .ln-xtra,.winbatch li.ln-xtra,.winbatch div.ln-xtra,.xml .ln-xtra,.xml li.ln-xtra,.xml div.ln-xtra {
+background-color:#ffc;
+}
+
+._1c span.xtra,.actionscript3 span.xtra,.asm span.xtra,.bash span.xtra,.c span.xtra,.cpp span.xtra,.cpp-qt span.xtra,.csharp span.xtra,.css span.xtra,.delphi span.xtra,.fortran span.xtra,.fsharp span.xtra,.haskell span.xtra,.html4strict span.xtra,.html5 span.xtra,.java5 span.xtra,.javascript span.xtra,.json span.xtra,.lisp span.xtra,.matlab span.xtra,.mysql span.xtra,.objc span.xtra,.oracle11 span.xtra,.pascal span.xtra,.perl6 span.xtra,.php span.xtra,.phphtml span.xtra,.powershell span.xtra,.prolog span.xtra,.purebasic span.xtra,.python span.xtra,.qbasic span.xtra,.rails span.xtra,.ruby span.xtra,.sql span.xtra,.tsql span.xtra,.unknown span.xtra,.vb span.xtra,.vbnet span.xtra,.winbatch span.xtra,.xml span.xtra {
+display:block;
+}
+
+.actionscript3 .kw5,.actionscript3 .kw6,.actionscript3 .kw7,.actionscript3 .kw8 {
+color:#004993;
+}
+
+.actionscript3 .co2,.javascript .co2,.json .co2,.perl6 .co2 {
+color:#096;
+font-style:italic;
+}
+
+.actionscript3 .br0,.actionscript3 .me0,.bash .nu0,.csharp .kw5,.powershell .br0,.purebasic .es0,.purebasic .me1,.python .br0,.python .me1,.tsql .nu0,.vbnet .br0,.vbnet .sy0,.vbnet .me1 {
+color:#000;
+}
+
+.actionscript3 .sy0,.delphi .kw4,.javascript .kw1,.json .kw1,.pascal .kw4,.phphtml .kw-5 {
+color:#006;
+font-weight:700;
+}
+
+.actionscript3 .st0,.php .kw3,.phphtml .kw0,.prolog .kw1 {
+color:#900;
+}
+
+.actionscript3 .nu0,.bash .kw1,.bash .co3,.bash .sy0,.c .kw2,.cpp-qt .kw1,.css .kw1,.delphi .kw1,.delphi .kw2,.fortran .kw2,.html4strict .kw2,.html5 .kw2,.java5 .kw1,.java5 .kw2,.pascal .kw1,.pascal .kw2,.perl6 .kw2,.php .kw2,.php .sy1,.phphtml .kw-7,.phphtml .kw-1,.phphtml .kw2,.phphtml .sy1,.xml .re1,.xml .re2 {
+color:#000;
+font-weight:700;
+}
+
+.asm .kw2,.cpp .kw1,.cpp .kw2,.cpp .kw4,.delphi .nu0,.java5 .st0,.perl6 .co3,.perl6 .re0,.php .st0,.php .st_h,.phphtml .st_h,.prolog .st0,.prolog .st_h,.unknown .kw1,.unknown .kw2,.unknown .kw4 {
+color:#00f;
+}
+
+.asm .kw5,.asm .kw6,.asm .sy2 {
+color:#00f;
+font-weight:700;
+}
+
+.asm .co1,.bash .co0,.c .co1,.fortran .co1,.java5 .co1,.java5 .coMULTI,.pascal .co1,.pascal .coMULTI,.perl6 .co1,.perl6 .co5,.perl6 .coMULTI,.php .co1,.php .co2,.php .coMULTI,.phphtml .co1,.phphtml .co2,.phphtml .coMULTI,.prolog .co1,.prolog .coMULTI {
+color:#666;
+font-style:italic;
+}
+
+.asm .br0,.php .kw4,.phphtml .kw1 {
+color:#090;
+font-weight:700;
+}
+
+.asm .sy1,.c .co2,.c .sy0,.fortran .co2,.fortran .sy0,.java5 .sy0,.javascript .sy0,.json .sy0,.pascal .sy0,.perl6 .sy0,.php .sy0,.phphtml .sy0,.prolog .sy0,.prolog .sy1,.prolog .sy2,.prolog .sy3,.prolog .sy4,.prolog .sy5,.prolog .sy6,.qbasic .re2,.xml .sc2 {
+color:#393;
+}
+
+.bash .kw3,.bash .br0 {
+color:#7a0874;
+font-weight:700;
+}
+
+.bash .co1,.haskell .kw5,.powershell .st0,.powershell .re5,.vb .st0 {
+color:maroon;
+}
+
+.bash .co2,.perl6 .co4,.ruby .co4 {
+color:#c00;
+font-style:italic;
+}
+
+.bash .co4,.cpp .co1,.csharp .st0,.csharp .st_h,.unknown .co1 {
+color:#666;
+}
+
+.bash .es2,.bash .es3,.bash .es4,.bash .re0,.bash .re1,.bash .re2,.bash .re4 {
+color:#007800;
+}
+
+.c .kw1,.fortran .kw1,.lisp .kw1,.perl6 .kw1,.php .kw1,.phphtml .kw-2 {
+color:#b1b100;
+}
+
+.c .kw3,.delphi .kw3,.delphi .br0,.delphi .sy0,.delphi .sy1,.delphi .sy2,.delphi .sy3,.fortran .kw3,.html4strict .kw3,.html5 .kw3,.javascript .kw3,.json .kw3,.pascal .kw3,.perl6 .kw3,.phphtml .kw-3,.phphtml .kw3,.qbasic .kw3,.vbnet .kw7,.xml .re0 {
+color:#006;
+}
+
+.c .kw4,.css .kw2,.css .re3,.fortran .kw4,.phphtml .kw-6,.phphtml .re4 {
+color:#933;
+}
+
+.c .coMULTI,.css .coMULTI,.delphi .co1,.delphi .coMULTI,.fortran .coMULTI,.html4strict .sc-1,.html5 .sc-1,.lisp .co1,.lisp .coMULTI,.mysql .co1,.mysql .co2,.oracle11 .co1,.phphtml .sc-1,.python .co1,.python .coMULTI,.sql .co1,.sql .coMULTI,.winbatch .coMULTI,.xml .sc-1 {
+color:gray;
+font-style:italic;
+}
+
+.c .es2,.c .es3,.c .es4,.cpp .es2,.cpp .es3,.cpp .es4,.cpp-qt .es2,.cpp-qt .es3,.cpp-qt .es4,.php .es2,.php .es3,.phphtml .es2,.phphtml .es3,.unknown .es2,.unknown .es3,.unknown .es4 {
+color:#609;
+font-weight:700;
+}
+
+.c .es5,.cpp .es5,.cpp-qt .es5,.php .es4,.phphtml .es4,.unknown .es5 {
+color:#069;
+font-weight:700;
+}
+
+.c .br0,.fortran .br0,.html4strict .sc2,.html5 .sc2,.java5 .br0,.javascript .br0,.json .br0,.mysql .kw12,.pascal .br0,.perl6 .br0,.php .br0,.phphtml .sc2,.prolog .br0,.xml .sc3 {
+color:#090;
+}
+
+.c .nu0,.cpp .kw3,.cpp .nu0,.unknown .kw3,.unknown .nu0 {
+color:#00d;
+}
+
+.c .nu6,.c .nu8,.c .nu12,.cpp .nu6,.cpp .nu8,.cpp .nu12,.cpp-qt .nu6,.cpp-qt .nu8,.cpp-qt .nu12,.php .nu8,.php .nu12,.phphtml .nu8,.phphtml .nu12,.unknown .nu6,.unknown .nu8,.unknown .nu12 {
+color:#208080;
+}
+
+.c .nu16,.c .nu17,.c .nu18,.c .nu19,.cpp .nu16,.cpp .nu17,.cpp .nu18,.cpp .nu19,.cpp-qt .nu16,.cpp-qt .nu17,.cpp-qt .nu18,.cpp-qt .nu19,.php .nu19,.phphtml .nu19,.powershell .re0,.prolog .nu0,.purebasic .st0,.unknown .nu16,.unknown .nu17,.unknown .nu18,.unknown .nu19 {
+color:purple;
+}
+
+.c .me1,.c .me2,.fortran .me1,.fortran .me2,.tsql .me1,.tsql .me2 {
+color:#202020;
+}
+
+.cpp .co2,.unknown .co2 {
+color:#390;
+}
+
+.cpp .coMULTI,.css .co2,.unknown .coMULTI {
+color:red;
+font-style:italic;
+}
+
+.cpp .sy2,.cpp .sy3,.unknown .sy2,.unknown .sy3 {
+color:#000040;
+}
+
+.cpp .sy4,.csharp .co2,.csharp .co3,.mysql .nu0,.powershell .re3,.powershell .re4,.prolog .re0,.tsql .co1,.tsql .coMULTI,.unknown .sy4 {
+color:teal;
+}
+
+.cpp .me1,.cpp .me2,.unknown .me1,.unknown .me2 {
+color:#078;
+}
+
+.cpp-qt .kw2,.cpp-qt .kw4 {
+color:#0057AE;
+}
+
+.cpp-qt .kw3,.cpp-qt .me1,.cpp-qt .me2,.cpp-qt .me3 {
+color:#2B74C7;
+}
+
+.cpp-qt .co1,.winbatch .co1,.winbatch .co100 {
+color:#888;
+}
+
+.cpp-qt .co2,.cpp-qt .br0,.cpp-qt .sy0 {
+color:#006E28;
+}
+
+.csharp .co1,.csharp .coMULTI,.powershell .kw5 {
+color:teal;
+font-style:italic;
+}
+
+.csharp .es0,.csharp .es_h,.mysql .es1,.powershell .kw1,.powershell .kw2,.powershell .es0,.vbnet .es0 {
+color:teal;
+font-weight:700;
+}
+
+.csharp .me1,.csharp .me2,.matlab .kw1,.matlab .kw2,.phphtml .st0,.powershell .kw3,.purebasic .re4,.tsql .kw1 {
+color:#00F;
+}
+
+.css .kw4,.python .kw3 {
+color:#dc143c;
+}
+
+.css .co1,.phphtml .co5,.qbasic .kw1 {
+color:#a1a100;
+}
+
+.css .br0,.css .sy0 {
+color:#0A0;
+}
+
+.css .nu0,.fortran .nu0,.fsharp .nu0,.html4strict .nu0,.html5 .nu0,.java5 .nu0,.lisp .nu0,.oracle11 .nu0,.pascal .nu0,.perl6 .nu0,.php .nu0,.phphtml .nu0,.qbasic .nu0,.qbasic .re1,.sql .nu0,.winbatch .nu0,.xml .nu0 {
+color:#c6c;
+}
+
+.css .re0,.phphtml .re1 {
+color:#c0c;
+}
+
+.css .re1,.phphtml .re2 {
+color:#66f;
+}
+
+.delphi .me1,.fsharp .me1,.haskell .me1,.perl6 .me1,.perl6 .me2,.winbatch .me0 {
+color:#060;
+}
+
+.fsharp .kw1,.fsharp .kw2,.fsharp .kw3,.fsharp .kw4,.fsharp .kw5,.fsharp .kw6,.fsharp .kw7,.fsharp .kw8,.haskell .kw1,.haskell .kw2 {
+color:#06c;
+font-weight:700;
+}
+
+.fsharp .coMULTI,.fsharp .co1,.fsharp .co2,.fsharp .co3,.haskell .co1,.haskell .co3,.haskell .coMULTI {
+color:#5d478b;
+font-style:italic;
+}
+
+.fsharp .br0,.html4strict .br0,.html4strict .sy0,.html5 .br0,.html5 .sy0,.lisp .br0,.lisp .sy0,.oracle11 .br0,.oracle11 .sy0,.phphtml .br0,.python .sy0,.qbasic .br0,.qbasic .sy0,.sql .br0,.sql .sy0,.xml .br0,.xml .sy0 {
+color:#6c6;
+}
+
+.haskell .co2,.haskell .sy0 {
+color:#393;
+font-weight:700;
+}
+
+.html4strict .sc-2,.html5 .sc-2,.phphtml .sc-2 {
+color:#404040;
+}
+
+.html4strict .sc0,.html5 .sc0,.phphtml .sc0,.xml .sc0 {
+color:#0bd;
+}
+
+.html4strict .sc1,.html5 .sc1,.phphtml .sc1,.xml .sc1 {
+color:#db0;
+}
+
+.java5 .kw3,.java5 .kw4,.rails .br0,.rails .sy0,.ruby .br0,.ruby .sy0 {
+color:#060;
+font-weight:700;
+}
+
+.java5 .kw5,.java5 .kw6,.java5 .kw7,.java5 .kw8,.java5 .kw9,.java5 .kw10,.java5 .kw11,.java5 .kw12,.java5 .kw13,.java5 .kw14,.java5 .kw15,.java5 .kw16,.java5 .kw17,.java5 .kw18,.java5 .kw19,.java5 .kw20,.java5 .kw21,.java5 .kw22,.java5 .kw23,.java5 .kw24,.java5 .kw25,.java5 .kw26,.java5 .kw27,.java5 .kw28,.java5 .kw29,.java5 .kw30,.java5 .kw31,.java5 .kw32,.java5 .kw33,.java5 .kw34,.java5 .kw35,.java5 .kw36,.java5 .kw37,.java5 .kw38,.java5 .kw39,.java5 .kw40,.java5 .kw41,.java5 .kw42,.java5 .kw43,.java5 .kw44,.java5 .kw45,.java5 .kw46,.java5 .kw47,.java5 .kw48,.java5 .kw49,.java5 .kw50,.java5 .kw51,.java5 .kw52,.java5 .kw53,.java5 .kw54,.java5 .kw55,.java5 .kw56,.java5 .kw57,.java5 .kw58,.java5 .kw59,.java5 .kw60,.java5 .kw61,.java5 .kw62,.java5 .kw63,.java5 .kw64,.java5 .kw65,.java5 .kw66,.java5 .kw67,.java5 .kw68,.java5 .kw69,.java5 .kw70,.java5 .kw71,.java5 .kw72,.java5 .kw73,.java5 .kw74,.java5 .kw75,.java5 .kw76,.java5 .kw77,.java5 .kw78,.java5 .kw79,.java5 .kw80,.java5 .kw81,.java5 .kw82,.java5 .kw83,.java5 .kw84,.java5 .kw85,.java5 .kw86,.java5 .kw87,.java5 .kw88,.java5 .kw89,.java5 .kw90,.java5 .kw91,.java5 .kw92,.java5 .kw93,.java5 .kw94,.java5 .kw95,.java5 .kw96,.java5 .kw97,.java5 .kw98,.java5 .kw99,.java5 .kw100,.java5 .kw101,.java5 .kw102,.java5 .kw103,.java5 .kw104,.java5 .kw105,.java5 .kw106,.java5 .kw107,.java5 .kw108,.java5 .kw109,.java5 .kw110,.java5 .kw111,.java5 .kw112,.java5 .kw113,.java5 .kw114,.java5 .kw115,.java5 .kw116,.java5 .kw117,.java5 .kw118,.java5 .kw119,.java5 .kw120,.java5 .kw121,.java5 .kw122,.java5 .kw123,.java5 .kw124,.java5 .kw125,.java5 .kw126,.java5 .kw127,.java5 .kw128,.java5 .kw129,.java5 .kw130,.java5 .kw131,.java5 .kw132,.java5 .kw133,.java5 .kw134,.java5 .kw135,.java5 .kw136,.java5 .kw137,.java5 .kw138,.java5 .kw139,.java5 .kw140,.java5 .kw141,.java5 .kw142,.java5 .kw143,.java5 .kw144,.java5 .kw145,.java5 .kw146,.java5 .kw147,.java5 .kw148,.java5 .kw149,.java5 .kw150,.java5 .kw151,.java5 .kw152,.java5 .kw153,.java5 .kw154,.java5 .kw155,.java5 .kw156,.java5 .kw157,.java5 .kw158,.java5 .kw159,.java5 .kw160,.java5 .kw161,.java5 .kw162,.java5 .kw163,.java5 .kw164,.java5 .kw165,.java5 .kw166 {
+color:#039;
+font-weight:700;
+}
+
+.java5 .me1,.java5 .me2 {
+color:#063;
+}
+
+.javascript .kw2,.json .kw2,.phphtml .kw-4 {
+color:#036;
+font-weight:700;
+}
+
+.javascript .co1,.javascript .coMULTI,.json .co1,.json .coMULTI {
+color:#060;
+font-style:italic;
+}
+
+.javascript .st0,.json .st0 {
+color:#36C;
+}
+
+.javascript .nu0,.json .nu0 {
+color:#C00;
+}
+
+.javascript .me1,.json .me1,.phphtml .re5 {
+color:#606;
+}
+
+.lisp .me0,.lisp .me1 {
+color:#555;
+}
+
+.matlab .br0,.matlab .sy0 {
+color:#080;
+}
+
+.matlab .nu0,.matlab .re0,.phphtml .re3 {
+color:#33f;
+}
+
+.mysql .kw1,.mysql .kw2 {
+color:#909;
+font-weight:700;
+}
+
+.mysql .kw3,.mysql .kw8,.mysql .kw9 {
+color:#90F;
+font-weight:700;
+}
+
+.mysql .kw4,.mysql .kw5 {
+color:#990;
+font-weight:700;
+}
+
+.mysql .kw6,.mysql .kw7 {
+color:#F90;
+font-weight:700;
+}
+
+.mysql .kw10,.mysql .kw11 {
+color:#C09;
+font-weight:700;
+}
+
+.mysql .kw13,.mysql .kw14,.mysql .kw15,.mysql .kw16,.mysql .kw17,.mysql .kw18,.mysql .kw19,.mysql .kw20,.mysql .kw21,.mysql .kw22,.mysql .kw23,.mysql .kw24,.mysql .kw25,.mysql .kw26,.qbasic .es0,.rails .es0,.ruby .es0 {
+color:#009;
+}
+
+.mysql .br0,.tsql .kw2 {
+color:#F0F;
+}
+
+.objc .kw1,.objc .kw2,.objc .kw3,.objc .kw4 {
+color:#a61390;
+}
+
+.objc .kw5,.objc .kw7,.objc .kw9,.purebasic .re5 {
+color:#400080;
+}
+
+.objc .kw6,.objc .kw8 {
+color:#2a6f76;
+}
+
+.objc .co2,.objc .coMULTI {
+color:#11740a;
+font-style:italic;
+}
+
+.objc .co3,.objc .st0 {
+color:#bf1d1a;
+}
+
+.objc .es0,.objc .nu0 {
+color:#2400d9;
+}
+
+.objc .br0,.objc .sy0 {
+color:#020;
+}
+
+.php .co3,.phphtml .co3 {
+color:#00c;
+font-style:italic;
+}
+
+.php .co4,.phphtml .co4 {
+color:#093;
+font-style:italic;
+}
+
+.php .es5,.phphtml .es5 {
+color:#069;
+font-weight:700;
+font-style:italic;
+}
+
+.php .es6,.phphtml .es6 {
+color:#093;
+font-weight:700;
+}
+
+.php .me1,.php .me2,.phphtml .me1,.phphtml .me2 {
+color:#004000;
+}
+
+.php .re0,.phphtml .re0 {
+color:#008;
+}
+
+.powershell .sy0,.powershell .me0 {
+color:#FFC0CB;
+}
+
+.purebasic .nu0,.purebasic .re0,.purebasic .re1 {
+color:#0061C1;
+}
+
+.qbasic .co1,.qbasic .co2,.tsql .br0,.tsql .sy0 {
+color:gray;
+}
+
+.rails .kw1,.ruby .kw1 {
+color:#96C;
+font-weight:700;
+}
+
+.rails .kw2,.ruby .kw2,.vbnet .kw1,.winbatch .kw3 {
+color:#00F;
+font-weight:700;
+}
+
+.rails .kw3,.ruby .kw3 {
+color:#C06;
+font-weight:700;
+}
+
+.rails .kw4,.ruby .kw4 {
+color:#C0F;
+font-weight:700;
+}
+
+.rails .coMULTI,.ruby .coMULTI {
+color:navy;
+font-style:italic;
+}
+
+.rails .st0,.ruby .st0 {
+color:#960;
+}
+
+.rails .nu0,.ruby .nu0 {
+color:#066;
+}
+
+.rails .me1,.ruby .me1 {
+color:#90C;
+}
+
+.rails .re0,.ruby .re0 {
+color:#f63;
+font-weight:700;
+}
+
+.rails .re1,.ruby .re1 {
+color:#06f;
+font-weight:700;
+}
+
+.rails .re2,.ruby .re2 {
+color:#66f;
+font-weight:700;
+}
+
+.rails .re3,.ruby .re3 {
+color:#f33;
+font-weight:700;
+}
+
+.tsql .kw3,.tsql .kw4 {
+color:#AF0000;
+}
+
+.vbnet .st0,.vbnet .nu0 {
+color:#a52a2a;
+back-color:#fffacd;
+}
+
+.winbatch .kw1,.winbatch .re1 {
+color:purple;
+font-weight:700;
+}
+
+.winbatch .co101,.winbatch .sy0 {
+color:#4a4;
+font-weight:700;
+}
+
+.winbatch .co102,.winbatch .re0 {
+color:#900;
+font-weight:700;
+}
